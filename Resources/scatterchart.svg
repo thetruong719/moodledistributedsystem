@@ -1,0 +1,25 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<svg x="0px" y="0px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" enable-background="new 0 0 32 32" xml:space="preserve" id="Layer_1">
+  <style type="text/css">
+	.Yellow{fill:#FFB115;}
+	.Red{fill:#D11C1C;}
+	.Black{fill:#727272;}
+	.Blue{fill:#1177D7;}
+	.White{fill:#FFFFFF;}
+	.Green{fill:#039C23;}
+	.st0{opacity:0.75;}
+	.st1{opacity:0.5;}
+	.st2{opacity:0.25;}
+	.st3{fill:#FFB115;}
+</style>
+  <g id="ScatterChart">
+    <path d="M31,28H1c-0.6,0-1-0.5-1-1V3c0-0.5,0.4-1,1-1h30c0.5,0,1,0.5,1,1v24C32,27.5,31.5,28,31,28z" fill="#727272" class="Black" />
+    <rect x="2" y="4" width="28" height="22" rx="0" ry="0" fill="#FFFFFF" class="White" />
+    <g opacity="0.25" class="st2">
+      <path d="M30,10V8h-8V4h-2v4h-8V4h-2v4H2v2h8v4H2v2h8v4H2v2h8v4h2v-4h8v4h2v-4h8v-2h-8v-4h8v-2h-8v-4H30z M20,20h-8    v-4h8V20z M20,14h-8v-4h8V14z" fill="#727272" opacity="0.25" class="Black" />
+    </g>
+    <circle cx="9" cy="19" r="3" fill="#D11C1C" class="Red" />
+    <circle cx="15" cy="9" r="3" fill="#FFB115" class="Yellow" />
+    <circle cx="23" cy="15" r="3" fill="#039C23" class="Green" />
+  </g>
+</svg>
